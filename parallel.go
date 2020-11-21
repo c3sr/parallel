@@ -5,7 +5,7 @@ import (
 	"runtime/debug"
 	"sync"
 
-	"github.com/rai-project/uuid"
+	"github.com/c3sr/uuid"
 )
 
 type Parallel interface {
